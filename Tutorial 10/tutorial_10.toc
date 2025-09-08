@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Scoring Criteria}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Communication}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Mathematical Presentation}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Personal Engagement}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Reflection}{3}{}%
+\contentsline {subsection}{\numberline {2.5}Use of Mathematics}{4}{}%
+\contentsline {section}{\numberline {3}Conclusion}{4}{}%
+\contentsline {section}{\numberline {4}Using \LaTeX {}}{5}{}%
+\contentsline {section}{References}{6}{}%
