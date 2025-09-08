@@ -1,6 +1,6 @@
 # LaTeX Tutorial
 
-This repo contains my code for [Michelle Krummels LaTeX Tutorials](url(https://youtube.com/playlist?list=PL1D4EAB31D3EBC449&s=iARmvNXtdSu693a3h)) on YouTube.
+This repo contains my code for [Michelle Krummels LaTeX Tutorials](https://youtube.com/playlist?list=PL1D4EAB31D3EBC449&s=iARmvNXtdSu693a3h) on YouTube.
 
 ## 📅 Progress
 
