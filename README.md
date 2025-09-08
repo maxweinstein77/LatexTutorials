@@ -4,7 +4,7 @@ This repo contains my code for the [Michelle Krummel LaTeX Tutorials]([url](http
 
 ## 📅 Progress
 
-- ✅ Tutorial 1: [Tutorial 1](tutorial_01.tex)
+- ✅ Tutorial 1: [Tutorial 1](Tutorial%201/tutorial_01.tex)
 - ✅ Tutorial 2: [Tutorial 2](tutorial_02.tex)
 - ✅ Tutorial 3: [Tutorial 3](tutorial_03.tex)
 - ✅ Tutorial 4: [Tutorial 4](tutorial_04.tex)
